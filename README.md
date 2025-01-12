@@ -23,3 +23,6 @@ Things you may want to cover:
 
 * ...
 "# blog_chat" 
+
+# Video Link :- https://hotwired.dev/
+# Please do not skip --javascript
